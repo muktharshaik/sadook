@@ -1,2 +1,2 @@
 # sadook
-Landing page for Sadook a classified website
+Landing page for client's classified website
